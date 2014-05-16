@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidFileDownloader</string>
+    <string name="status_text_default">Enter the URL of the file to download.</string>
+    <string name="progress_dialog_title_downloading">Downloading...</string>
+    <string name="progress_dialog_title_connecting">Connecting...</string>
+    <string name="progress_dialog_message_prefix_downloading">Downloading file</string>
+    <string name="progress_dialog_message_prefix_connecting">Connecting to</string>
+    <string name="user_message_download_complete">Download complete!</string>
+    <string name="user_message_download_canceled">Download canceled!</string>
+    <string name="error_message_bad_url">Error: Invalid URL!</string>
+    <string name="error_message_file_not_found">Error: File not found!</string>
+    <string name="error_message_general">Error downloading file!</string>
+</resources>
